@@ -1,2 +1,2 @@
 # project
-this is my food ordering website
+this is my first gym website
